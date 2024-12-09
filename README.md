@@ -1,4 +1,6 @@
 # Regen_Bazaar-IP-creation_smart-contract
+## Current solution and vision might be not optimized due to leak of Tech skills. Please consider to check the design and provide better solution
+
 Alpha Feature Smart Contract for ReGen Bazaar marketplace.
 
 -> This Smart Contract allows NGOs/Communities to tokenize their impact produced in real life in form of onchain commodities aka Impact Products
